@@ -311,7 +311,6 @@ else:
     - 🔬 **3D Visualization**: Interactive molecular viewer with py3Dmol
     - 🎯 **VINA Rescoring**: Rescore ligand poses using AutoDock Vina
     - 🚀 **OpenDock Integration**: Run new docking calculations
-    - 📊 **Score Analysis**: Sort and compare binding scores
     
     ### Getting Started:
     1. Upload your PDB protein structure file
