@@ -8,7 +8,7 @@ class Config:
     
     # OpenDock settings
     OPENDOCK_ENV_NAME = "opendock"  # Name of your OpenDock conda environment
-    OPENDOCK_PATH = "C:\\Users\\andrea.DESKTOP-26V6UN4\\Documents\\opendock"  # Path to OpenDock installation
+    OPENDOCK_PATH = "path\\to\\local\\opendock"  # Path to OpenDock installation
 
     # AutoDock Vina settings
     VINA_EXECUTABLE = "vina"  # Path to vina executable, or just "vina" if in PATH
